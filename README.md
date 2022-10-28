@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @masbindev
-- � I’m interested in python, nextjs, automation, docker and cloud
-- 🌱 I’m currently working on and learning nextjs & kubernetes. 
+- � I’m interested in Rust, python, nextjs, automation, docker and cloud
+- 🌱 I’m currently working on and learning Rust, nextjs & kubernetes. 
 - 💞️ I’m looking to collaborate on any project involving python, nextjs and cloud (GCP and/or AWS)
 - 📫 email me at masbindev@gmail.com
 
